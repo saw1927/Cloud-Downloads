@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4229",
+  "folder": "Software__ShirOKhorshid-2026.03.17_20260514081017_d32f5d",
+  "base_name": "Software__ShirOKhorshid-2026.03.17_20260514081017_d32f5d.apk",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/saw1927/Cloud-Downloads/releases/tag/co-releases-v1-4229",
+  "files": [
+    {
+      "name": "Software__ShirOKhorshid-2026.03.17_20260514081017_d32f5d.apk",
+      "url": "https://github.com/saw1927/Cloud-Downloads/releases/download/co-releases-v1-4229/Software__ShirOKhorshid-2026.03.17_20260514081017_d32f5d.apk",
+      "api_url": "https://api.github.com/repos/saw1927/Cloud-Downloads/releases/assets/419996668",
+      "id": 419996668,
+      "size": 25207250,
+      "download_count": 0
+    }
+  ]
+}
